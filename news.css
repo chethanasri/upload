@@ -1,0 +1,17 @@
+.background{
+background-image:url('/home/rgukt/Pictures/newsbg.jpeg');
+background-size:cover;
+height:100vh;
+width:100vw;
+}
+.card{
+border-radius:10px;
+background-color:white;
+
+}
+.par{
+color:#7b8794;
+}
+.main{
+color:#323f4b;
+}
